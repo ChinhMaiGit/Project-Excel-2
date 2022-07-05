@@ -33,4 +33,4 @@ These are mostly the tools used for calculation and data transformation. The too
 
 For further information, please refer to the project repository on Github using the following link:
 
-[Github](https://github.com/ChinhMaiGit/Project-Excel-2)
+[Excel Project 2 Github](https://github.com/ChinhMaiGit/Project-Excel-2)
