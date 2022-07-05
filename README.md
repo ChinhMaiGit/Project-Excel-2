@@ -28,3 +28,9 @@ In details, these skills include
 * Generating the table of random values using Data Table tool in What-If Analysis
 
 These are mostly the tools used for calculation and data transformation. The tools used for data aggregation are not implemented due to the nature of this project. 
+
+## Detailed documentation
+
+For further information, please refer to the project repository on Github using the following link:
+
+[Github](https://github.com/ChinhMaiGit/Project-Excel-2)
