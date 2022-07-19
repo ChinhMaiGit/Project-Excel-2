@@ -1,7 +1,7 @@
 # Excel Project 2: Efficient Frontier
 A skills showcase project for Excel
 
-![image](https://user-images.githubusercontent.com/89245616/177243825-960bf52f-6ea0-4c07-8cb0-5e6a4a79232c.png)
+![projectexcel2](https://user-images.githubusercontent.com/89245616/179675114-41f5d496-8c6d-4726-bf64-ef5790921e29.png)
 
 ## Project Description
 
