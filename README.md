@@ -3,7 +3,7 @@ A skills showcase project for Excel
 
 ![projectexcel2](https://user-images.githubusercontent.com/89245616/179675114-41f5d496-8c6d-4726-bf64-ef5790921e29.png)
 
-## Project Description
+## Project description
 
 In this project, I construct many efficient frontiers from various stocks in the DAX30 index to showcase my familiarity with Excel. Spreadsheet is an intuitive way to work with data due to its tabular form of presentation and working with spreadsheet does not require as much knowledge as other analytical tools do. However, the latest version of Excel included in the Microsoft 365 subscription is very sophisticated with many cool features that greatly accelerates the analyzing process. In this project, I will present the implementation of such features in the optimization of a stock portfolio. 
 
