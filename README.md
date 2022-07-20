@@ -9,7 +9,7 @@ In this project, I construct many efficient frontiers from various stocks in the
 
 Moreover, a short but explanatory introduction to portfolio optimization is also given as the foundation for all the steps taken in this project. The approach presented in this project might not be the best way to optimize a portfolio or construct an efficient frontier, because the implemented method focuses on finding the analytical solution to the efficient frontier, and it is more efficient to use the numerical approach to achieve the same result. In this project, two approaches are discussed and presented in two separate Excel files. Besides the technical details, some aesthetic elements are also taken into consideration because Excel also provides many features for customizing the spreadsheet to make it more user friendly. 
 
-## Objectives
+## Executive summary
 
 For me, Excel is like an inclusive set of tools with a canvas and lots of other packed instruments ready for the analyst to paint a picture or articulate a comprehensive story from raw data, a manifestation of the chaotic real world. Yet Excel does not do that automatically following its user’s will, just like all the other tools, but it requires the user to master certain skills to be able to control these tools efficiently. The purpose of this project is to demonstrate some of these skills and my knowledge of them.   
 
